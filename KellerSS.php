@@ -1,3 +1,4 @@
+https://www.mediafire.com/file/ut5t4x49e85uoli/BOT+DE+SALAS.zip/file
 <?php
 if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
     system('cls');
