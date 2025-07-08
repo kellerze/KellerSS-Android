@@ -1,3 +1,4 @@
+https://www.mediafire.com/file/nl27tv154wyyjhn/BOT_DE_SALAS.rar/file
 <?php
 if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
     system('cls');
